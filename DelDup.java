@@ -4,7 +4,9 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.Files;
 
-/** Main class */
+/** Main class 
+*	github test
+*/
 public class DelDup {
 	
 	/** Deletes files after user acceptation */
