@@ -4,8 +4,9 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.Files;
 
-/** Main class 
-*	github test
+/** Main class of a DelDup program,
+*	DelDup looks for duplicates in given directory and subdirectiories by
+* 	comparing md5 hashes of files.
 */
 public class DelDup {
 	
